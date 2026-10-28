@@ -1,4 +1,4 @@
-<h3 align="center">BurdenBoy · делаю Deadlock Plus — оверлей, моды и AI-тренер для Deadlock</h3>
+<h3 align="center">BurdenBoy </h3>
 
 <a href="https://burdenboy.github.io/deadlockplus/#features"><img src="assets/banner-hero.svg" width="100%" alt="Deadlock Plus — выбери функцию: оверлей, AI-тренер, моды, темы"></a>
 
