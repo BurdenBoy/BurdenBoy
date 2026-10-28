@@ -1,4 +1,4 @@
-<h3 align="center">BurdenBoy </h3>
+<p align="center"><img src="assets/stickers.svg" height="44" alt="BurdenBoy"></p>
 
 <img src="header.svg" width="100%" alt="BurdenBoy — пишу приложения, сайты и инструменты для игр">
 
