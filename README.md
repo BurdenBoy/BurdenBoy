@@ -1,12 +1,12 @@
-<a href="https://lopstik.github.io/deadlockplus/"><img src="assets/banner-hero.svg" width="100%" alt="BurdenBoy — делаю Deadlock Plus"></a>
+<h3 align="center">BurdenBoy · делаю Deadlock Plus — оверлей, моды и AI-тренер для Deadlock</h3>
 
-<a href="https://lopstik.github.io/deadlockplus/"><img src="assets/banner-deadlockplus.svg" width="100%" alt="Deadlock Plus — оверлей, моды и AI-тренер для Deadlock"></a>
+<a href="https://lopstik.github.io/deadlockplus/#features"><img src="assets/banner-hero.svg" width="100%" alt="Deadlock Plus — выбери функцию: оверлей, AI-тренер, моды, темы"></a>
 
-<a href="https://lopstik.github.io/deadlockplus/#features"><img src="assets/banner-overlay.svg" width="100%" alt="Оверлей в игре"></a>
+<a href="https://lopstik.github.io/deadlockplus/#features"><img src="assets/banner-overlay.svg" width="100%" alt="Оверлей — что и когда покупать прямо в матче"></a>
 
-<a href="https://lopstik.github.io/deadlockplus/#features"><img src="assets/banner-ai.svg" width="100%" alt="AI-тренер"></a>
+<a href="https://lopstik.github.io/deadlockplus/#features"><img src="assets/banner-coach.svg" width="100%" alt="AI-тренер — Claude отвечает прямо во время игры"></a>
 
-<a href="https://lopstik.github.io/deadlockplus/#features"><img src="assets/banner-mods.svg" width="100%" alt="Моды в один клик"></a>
+<a href="https://lopstik.github.io/deadlockplus/#features"><img src="assets/banner-mods.svg" width="100%" alt="Моды — каталог GameBanana в один клик"></a>
 
 <p align="center">
   <a href="https://lopstik.github.io/deadlockplus/"><b>Сайт</b></a> ·
